@@ -1,2 +1,2 @@
 # IP-Finder
-A small IP finder program using Python.
+Run this code to find your hostname, local host & public IP. 
